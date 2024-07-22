@@ -26,7 +26,7 @@ GarP is a project aimed at classifying recyclable materials using deep learning 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/GarP.git
+    git clone https://github.com/Abdulkadirklc/GarP.git
     cd GarP
     ```
 
@@ -45,7 +45,7 @@ GarP is a project aimed at classifying recyclable materials using deep learning 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/GarP.git
+    git clone https://github.com/Abdulkadirklc/GarP.git
     cd GarP
     ```
 
